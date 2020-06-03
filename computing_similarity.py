@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Author: Lancer <lancer.dalu@hotmail.com>
+# Author: Dalu Gao <lancer.dalu@hotmail.com>
 #
 # This program is used to calculate the similarity of a group of texts.
 #
